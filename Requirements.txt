@@ -1,0 +1,4 @@
+Streamlit
+numpy
+joblib
+scikit_learn==1.6.1
